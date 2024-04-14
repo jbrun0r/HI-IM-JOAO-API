@@ -65,5 +65,12 @@
       }
     ]
   ],
-  "skills": "PYTHON FLASK SQLALCHEMY POSTGRESQL MYSQL JAVA SPRING BOOT MVC ASP.NET CORE MVC C# VUE.JS TYPESCRIPT CSS TAILWIND JEST FLUTTER FIREBASE DOCKER AWS S3 AZURE"
+  "skills": "PYTHON FLASK SQLALCHEMY POSTGRESQL MYSQL JAVA SPRING BOOT MVC ASP.NET CORE MVC C# VUE.JS TYPESCRIPT CSS TAILWIND JEST FLUTTER FIREBASE DOCKER AWS S3 AZURE",
+   "description": [
+    "Researcher,",
+    "Full Stack Developer",
+    "and Computer Engineering student",
+    "at the Federal Institute of Education,",
+    "Science and Technology of Ceará."
+  ]
 }
