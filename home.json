@@ -72,5 +72,7 @@
     "and Computer Engineering student",
     "at the Federal Institute of Education,",
     "Science and Technology of Ceará."
-  ]
+  ],
+  "greeting": "Hi, I'm",
+  "name": "João"
 }
