@@ -1,0 +1,111 @@
+{
+"experiences": [
+  {
+    "role": "Developer",
+    "company": "Apple Developer Academy",
+    "period": "01/2024 - Present",
+    "description": "Researcher, developer, and continuous learner dedicated to spearheading innovation in product development for Apple platforms.",
+    "tasks": "Following the Challenge-Based Learning (CBL) methodology, which brings real-world problems into the lab to stimulate creative and innovative capabilities, I develop for iOS, watchOS, tvOS, and visionOS platforms. Production of articles and scientific content. Studies and conducting technical workshops on software engineering.",
+    "skills": [
+      "Vue",
+      "CSS",
+      "HTML",
+      "Quasar",
+      "Vitest",
+      "Storybook",
+      "Pinia",
+      "Mirage",
+      "i18n",
+      "Docker",
+      "TypeScript",
+      "Git",
+      "Git Flow",
+      "Scrum",
+      "GitLab"
+    ]
+  },
+  {
+    "role": "Software Developer",
+    "company": "AltisLab - WDA",
+    "period": "10/2023 - 03/2024",
+    "description": "Developer on R&D project at Canon Medical Systems of Brazil, currently involved in an innovative project focused on developing the 'RC Pipe' platform.",
+    "tasks": "Development of a web application using Vue 3, Quasar, and Typescript. Implementation of unit tests using Vitest with coverage graph. Development of an interactive Kanban board to track the progress of RCs with simultaneous user access. Enhancement: Construction of a Dashboard using Apex Charts to monitor progress and goals.",
+    "skills": [
+      "Vue",
+      "CSS",
+      "HTML",
+      "Quasar",
+      "Vitest",
+      "Storybook",
+      "Pinia",
+      "Mirage",
+      "i18n",
+      "Docker",
+      "TypeScript",
+      "Git",
+      "Git Flow",
+      "Scrum",
+      "GitLab"
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "company": "LienTech",
+    "period": "10/2022 - 07/2023",
+    "description": "Researcher working on an Artificial Intelligence engine development project capable of classifying and qualifying IT professionals (Recruiting).",
+    "tasks": "API creation, using Flask, Werkzeug, Docker, SQLAlchemy (ORM), PostgreSQL, Pytest; API communication with S3 Bucket for object storage; Development of a Recruitment Web platform using Vue, Jest and Docker; Unit Testing and Automated Pipeline Build in Azure Pipelines; Chatbot development using RASA Framework.",
+    "skills": [
+      "Vue",
+      "CSS",
+      "Python",
+      "RASA",
+      "Chatbots",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "AWS S3",
+      "ML",
+      "Docker",
+      "TypeScript",
+      "Jest",
+      "Git",
+      "Git Flow",
+      "Scrum",
+      "Azure DevOps"
+    ]
+  },
+  {
+    "role": "Trainee AI",
+    "company": "LAPISCO",
+    "period": "07/2022 - 11/2022",
+    "description": "I explored fundamental concepts of Artificial Intelligence, understanding how algorithms perform complex tasks previously exclusive to human intelligence.",
+    "tasks": "Applying classification algorithms like KNN, Decision Tree, Naive Bayes, MLP and SVM to various datasets allowed me to understand their practical applications and performance drivers. Challenges such as detecting heart disease provided hands-on experience in developing accurate machine learning models based on real data.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Numpy",
+      "Seaborn",
+      "Matplotlib",
+      "Scipy",
+      "Scikit-learn",
+      "Exploratory Data Analysis",
+      "Artificial Neural Networks",
+      "Classification Algorithms"
+    ]
+  },
+  {
+    "role": "Bank Apprentice",
+    "company": "Bank of Brazil S.A.",
+    "period": "08/2016 - 08/2018",
+    "description": "I worked in the administrative area, performing activities aimed at banking support and played a crucial role in the control and manipulation of data, ensuring the integrity of information.",
+    "tasks": "Careful treatment of various data, ensuring that they were in compliance with all established procedures and strictly complying with the stipulated deadlines, vital to guarantee the smooth flow of internal operations allowing the team to perform its tasks more effectively.",
+    "skills": [
+      "Logical Mathematical Reasoning",
+      "Statistical Data Analysis",
+      "Technology and Qualification for Administrative Occupations"
+    ]
+  }
+]
+
+
+}
