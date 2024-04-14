@@ -19,10 +19,10 @@
     [
       {
         "class": "item-30",
-        "projectName": "E-Commerce API",
-        "projectStacks": "Java Spring RESTful",
-        "img": "https://github.com/jbrun0r/assets/blob/main/RESTful-E-Commerce-API/E-Commerce-Spring.gif?raw=true",
-        "link": "https://github.com/jbrun0r/RESTful-E-Commerce-API-SpringBoot3"
+        "projectName": "Shortest Path Problem",
+        "projectStacks": "Graph",
+        "img": "https://raw.githubusercontent.com/jbrun0r/assets/main/graphs/random_connected_graph.png",
+        "link": "https://github.com/jbrun0r/graphs/blob/main/bellman_ford_vs_dijkstra_grafos.ipynb"
       },
       {
         "class": "item-60",
