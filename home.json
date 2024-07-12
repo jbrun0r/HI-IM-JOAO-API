@@ -10,20 +10,20 @@
       },
       {
         "class": "item-30",
-        "projectName": "ChatBot",
-        "projectStacks": "Vue RASA",
-        "img": "https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/quem-%C3%A9-Octocat.gif?raw=true",
-        "link": "https://github.com/jbrun0r/chatbot-front-end"
+        "projectName": "WashCare",
+        "projectStacks": "SwiftUI iOS",
+        "img": "https://github.com/jbrun0r/assets/blob/main/WashCare/WashCare.png?raw=true",
+        "link": "https://apps.apple.com/br/app/washcare/id6505068823?l=en-GB"
       }
     ],
     [
       {
         "class": "item-30",
-        "projectName": "Shortest Path Problem",
-        "projectStacks": "Graph",
-        "img": "https://raw.githubusercontent.com/jbrun0r/assets/main/graphs/random_connected_graph.png",
-        "link": "https://github.com/jbrun0r/graphs/blob/main/bellman_ford_vs_dijkstra_grafos.ipynb"
-      },
+        "projectName": "ChatBot",
+        "projectStacks": "Vue RASA",
+        "img": "https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/quem-%C3%A9-Octocat.gif?raw=true",
+        "link": "https://github.com/jbrun0r/chatbot-front-end"
+      }
       {
         "class": "item-60",
         "projectName": "Institute API",
@@ -42,20 +42,20 @@
       },
       {
         "class": "item-30",
+        "projectName": "Shortest Path Problem",
+        "projectStacks": "Graph",
+        "img": "https://raw.githubusercontent.com/jbrun0r/assets/main/graphs/random_connected_graph.png",
+        "link": "https://github.com/jbrun0r/graphs/blob/main/bellman_ford_vs_dijkstra_grafos.ipynb"
+      },
+    ],
+    [
+      {
+        "class": "item-30",
         "projectName": "Heart Disease Prediction",
         "projectStacks": "Machine Learning EDA",
         "img": "https://github.com/jbrun0r/predicting-heart-disease/blob/outputs/output_52_2.png?raw=true",
         "link": "https://github.com/jbrun0r/predicting-heart-disease"
       }
-    ],
-    [
-      {
-        "class": "item-30",
-        "projectName": "Rasterized",
-        "projectStacks": "Python ",
-        "img": "https://github.com/jbrun0r/cg-rasterized/raw/assets/rasterized/assets/output_7_0.png?raw=true",
-        "link": "https://github.com/jbrun0r/cg-rasterized"
-      },
       {
         "class": "item-60",
         "projectName": "Vehicle On-Board Computer",
