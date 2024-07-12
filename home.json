@@ -46,14 +46,14 @@
         "projectStacks": "Graph",
         "img": "https://raw.githubusercontent.com/jbrun0r/assets/main/graphs/random_connected_graph.png",
         "link": "https://github.com/jbrun0r/graphs/blob/main/bellman_ford_vs_dijkstra_grafos.ipynb"
-      },
+      }
     ],
     [
       {
         "class": "item-30",
         "projectName": "Heart Disease Prediction",
         "projectStacks": "Machine Learning EDA",
-        "img": "https://github.com/jbrun0r/predicting-heart-disease/blob/outputs/output_52_2.png?raw=true",
+        "img": "https://github.com/jbrun0r/predicting-heart-disease/blob/outputs/predicting-heart-disease.gif?raw=true",
         "link": "https://github.com/jbrun0r/predicting-heart-disease"
       },
       {
