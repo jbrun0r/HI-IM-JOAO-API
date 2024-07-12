@@ -23,7 +23,7 @@
         "projectStacks": "Vue RASA",
         "img": "https://github.com/jbrun0r/assets/blob/main/chatbot-front-end/quem-%C3%A9-Octocat.gif?raw=true",
         "link": "https://github.com/jbrun0r/chatbot-front-end"
-      }
+      },
       {
         "class": "item-60",
         "projectName": "Institute API",
@@ -55,7 +55,7 @@
         "projectStacks": "Machine Learning EDA",
         "img": "https://github.com/jbrun0r/predicting-heart-disease/blob/outputs/output_52_2.png?raw=true",
         "link": "https://github.com/jbrun0r/predicting-heart-disease"
-      }
+      },
       {
         "class": "item-60",
         "projectName": "Vehicle On-Board Computer",
